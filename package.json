@@ -1,0 +1,19 @@
+{
+  "name": "web-camera-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "scripts": {
+    "star": "node program.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beenlord/Web-camera-server.git"
+  },
+  "author": "Beenlord",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beenlord/Web-camera-server/issues"
+  },
+  "homepage": "https://github.com/Beenlord/Web-camera-server#readme"
+}
